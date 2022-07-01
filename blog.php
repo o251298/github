@@ -1,2 +1,2 @@
 <?php 
-echo "blog";
+echo "blog Oleg";
